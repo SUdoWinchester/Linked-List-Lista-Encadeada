@@ -1,4 +1,4 @@
-# Linked-List-Lista-Encadeada
+# Linked-List/Lista-Encadeada
 
 Para copilar:
 gcc -o linkedlist listcad.c main.c
